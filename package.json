@@ -1,0 +1,14 @@
+{
+  "name": "email-spammer",
+  "version": "1.0.0",
+  "description": "Email Spammer ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node spammer.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^5.1.1"
+  }
+}
